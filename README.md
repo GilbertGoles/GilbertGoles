@@ -74,3 +74,5 @@ Here are some ideas to get you started:
 ### 📚 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+![Snake animation](https://github.com/GilbertGoles/GilbertGoles/blob/output/github-contribution-grid-snake.svg)
