@@ -32,7 +32,7 @@
 
 
 ![Gilbert's Stats](https://github-readme-stats.vercel.app/api?username=GilbertGoles&theme=dark&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GilbertGoles)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GilbertGoles)
 
 ### 🎯 Planning to Learn
 
