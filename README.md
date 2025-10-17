@@ -50,8 +50,11 @@
 ![Gilbert's Stats](https://github-readme-stats.vercel.app/api?username=GilbertGoles&theme=dark&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GilbertGoles)
 
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align='center'>
+  
 ### 🎯 Planning to Learn
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
