@@ -49,6 +49,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-FF0000?style=for-the-badge&logo=shield&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-C51A4A?style=for-the-badge&logo=wifi&logoColor=white)
+![Wifite](https://img.shields.io/badge/Wifite-000000?style=for-the-badge&logo=wifi&logoColor=white)
 
 
 ![Gilbert's Stats](https://github-readme-stats.vercel.app/api?username=GilbertGoles&theme=dark&show_icons=true)
