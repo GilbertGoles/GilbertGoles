@@ -12,13 +12,23 @@
 ### 💻 Frontend 
 
 ![BurpSuite](https://img.shields.io/badge/burpSuite-F05032?style=for-the-badge&logo=burpsuite&logoColor=white)
-React, Vue
+
 
 ### 🔧 Backend 
-Node.js, Django  
+ 
 
 ### 🗄️ Database 
-MongoDB, PostgreSQL
+
+### ⚙️ Tools
+
+![FFUF](https://img.shields.io/badge/FFUF-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00D8FF?style=for-the-badge&logo=atom&logoColor=black)
+![Sublist3r](https://img.shields.io/badge/Sublist3r-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-C51A4A?style=for-the-badge&logo=wifi&logoColor=white)
 
 ### 🎯 Planning to Learn
 
