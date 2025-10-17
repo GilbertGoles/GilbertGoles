@@ -12,6 +12,7 @@
 
 
 <div align='center'>
+  
 ## 🛠️ Tech Stack
 
 
@@ -48,7 +49,6 @@
 
 ![Gilbert's Stats](https://github-readme-stats.vercel.app/api?username=GilbertGoles&theme=dark&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GilbertGoles)
-</div>
 
 ### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -95,3 +95,5 @@
 
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+
+</div>
