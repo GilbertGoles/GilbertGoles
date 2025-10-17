@@ -10,6 +10,8 @@
   <img alt="GitHub contributions snake game" src="https://raw.githubusercontent.com/GilbertGoles/GilbertGoles/main/dist/github-snake.svg">
 </picture>
 
+
+<div align='center'>
 ## 🛠️ Tech Stack
 
 
@@ -46,7 +48,7 @@
 
 ![Gilbert's Stats](https://github-readme-stats.vercel.app/api?username=GilbertGoles&theme=dark&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GilbertGoles)
-
+</div>
 
 ### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
