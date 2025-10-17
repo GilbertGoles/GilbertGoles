@@ -3,6 +3,12 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GilbertGoles/GilbertGoles/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GilbertGoles/GilbertGoles/main/dist/github-snake.svg">
+  <img alt="GitHub contributions snake game" src="https://raw.githubusercontent.com/GilbertGoles/GilbertGoles/main/dist/github-snake.svg">
+</picture>
+
 ## 🛠️ Tech Stack
 
 
