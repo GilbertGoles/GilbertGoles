@@ -78,3 +78,5 @@ Here are some ideas to get you started:
 
 
 ![Snake animation](https://github.com/GilbertGoles/GilbertGoles/blob/output/github-contribution-grid-snake.svg)
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
